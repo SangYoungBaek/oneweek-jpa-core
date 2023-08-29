@@ -1,0 +1,1 @@
+# oneweek-jpa-core
